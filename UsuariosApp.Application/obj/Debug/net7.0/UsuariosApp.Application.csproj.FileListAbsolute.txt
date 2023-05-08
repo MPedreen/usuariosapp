@@ -1,0 +1,12 @@
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\bin\Debug\net7.0\UsuariosApp.Application.deps.json
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\bin\Debug\net7.0\UsuariosApp.Application.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\bin\Debug\net7.0\UsuariosApp.Application.pdb
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\obj\Debug\net7.0\UsuariosApp.Application.csproj.AssemblyReference.cache
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\obj\Debug\net7.0\UsuariosApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\obj\Debug\net7.0\UsuariosApp.Application.AssemblyInfoInputs.cache
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\obj\Debug\net7.0\UsuariosApp.Application.AssemblyInfo.cs
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\obj\Debug\net7.0\UsuariosApp.Application.csproj.CoreCompileInputs.cache
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\obj\Debug\net7.0\UsuariosApp.Application.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\obj\Debug\net7.0\refint\UsuariosApp.Application.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\obj\Debug\net7.0\UsuariosApp.Application.pdb
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\obj\Debug\net7.0\ref\UsuariosApp.Application.dll

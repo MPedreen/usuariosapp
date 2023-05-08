@@ -33,3 +33,5 @@ C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\obj\Debug\net7.0\UsuariosApp.API
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\obj\Debug\net7.0\UsuariosApp.API.pdb
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\obj\Debug\net7.0\UsuariosApp.API.genruntimeconfig.cache
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\obj\Debug\net7.0\ref\UsuariosApp.API.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\UsuariosApp.Application.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\UsuariosApp.Application.pdb
