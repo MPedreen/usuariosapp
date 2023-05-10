@@ -10,3 +10,6 @@ C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\obj\Debug\net7.0\Usuario
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\obj\Debug\net7.0\refint\UsuariosApp.Application.dll
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\obj\Debug\net7.0\UsuariosApp.Application.pdb
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\obj\Debug\net7.0\ref\UsuariosApp.Application.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\bin\Debug\net7.0\UsuariosApp.Domain.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\bin\Debug\net7.0\UsuariosApp.Domain.pdb
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Application\obj\Debug\net7.0\UsuariosApp.Application.csproj.CopyComplete
