@@ -6,9 +6,9 @@ namespace UsuariosApp.Infra.Data.Contexts
 {
     public class DataContext : DbContext
     {
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        public DataContext(DbContextOptions<DataContext> options) : base(options)
         {
-            optionsBuilder.UseInMemoryDatabase(databaseName: "UsuariosApp");
+                
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

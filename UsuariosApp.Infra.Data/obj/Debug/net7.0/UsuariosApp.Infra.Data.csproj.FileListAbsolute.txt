@@ -13,3 +13,5 @@ C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net7.0\Usuarios
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net7.0\refint\UsuariosApp.Infra.Data.dll
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.pdb
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net7.0\ref\UsuariosApp.Infra.Data.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net7.0\UsuariosApp.Infra.Data.runtimeconfig.json
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.genruntimeconfig.cache
