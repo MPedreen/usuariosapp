@@ -78,3 +78,6 @@ C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\UsuariosApp.Dom
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\UsuariosApp.Infra.Data.dll
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\UsuariosApp.Domain.pdb
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\UsuariosApp.Infra.Data.pdb
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\AutoMapper.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\Newtonsoft.Json.dll

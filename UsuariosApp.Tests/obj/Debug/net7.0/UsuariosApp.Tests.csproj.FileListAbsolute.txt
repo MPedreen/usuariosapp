@@ -462,3 +462,5 @@ C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Tests\bin\Debug\net7.0\UsuariosApp.A
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Tests\bin\Debug\net7.0\UsuariosApp.Domain.pdb
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Tests\bin\Debug\net7.0\UsuariosApp.Infra.Data.pdb
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Tests\obj\Debug\net7.0\MvcTestingAppManifest.json
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Tests\bin\Debug\net7.0\AutoMapper.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Tests\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

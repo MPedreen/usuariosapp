@@ -14,5 +14,10 @@
             Criação de conta de usuários
             </summary>
         </member>
+        <member name="M:UsuariosApp.API.Controllers.UsuariosController.RecuperarSenha(UsuariosApp.Application.Models.Requests.RecuperarSenhaRequestDTO)">
+            <summary>
+            Recuperação de senha do usuário
+            </summary>
+        </member>
     </members>
 </doc>
