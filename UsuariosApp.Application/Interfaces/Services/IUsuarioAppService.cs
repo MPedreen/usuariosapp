@@ -1,7 +1,7 @@
 ﻿using UsuariosApp.Application.Models.Requests;
 using UsuariosApp.Application.Models.Responses;
 
-namespace UsuariosApp.Application.Interfaces
+namespace UsuariosApp.Application.Interfaces.Services
 {
     public interface IUsuarioAppService : IDisposable
     {

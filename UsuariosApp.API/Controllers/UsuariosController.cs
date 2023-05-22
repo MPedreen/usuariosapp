@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using UsuariosApp.Application.Interfaces;
+using UsuariosApp.Application.Interfaces.Services;
 using UsuariosApp.Application.Models.Requests;
 using UsuariosApp.Application.Models.Responses;
 

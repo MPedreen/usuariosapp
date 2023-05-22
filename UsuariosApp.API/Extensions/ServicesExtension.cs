@@ -1,4 +1,4 @@
-﻿using UsuariosApp.Application.Interfaces;
+﻿using UsuariosApp.Application.Interfaces.Services;
 using UsuariosApp.Application.Services;
 using UsuariosApp.Domain.Interfaces.Repositories;
 using UsuariosApp.Domain.Interfaces.Services;

@@ -1284,6 +1284,7 @@
           "lib/netcoreapp2.1/testhost.dll": {}
         }
       },
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.17.2": {},
       "Microsoft.Win32.Primitives/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "5.0.0",
@@ -2255,6 +2256,7 @@
       "UsuariosApp.API/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "7.0.0",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.17.2",
           "Newtonsoft.Json": "13.0.3",
           "Swashbuckle.AspNetCore": "6.4.0",
           "UsuariosApp.Application": "1.0.0",
@@ -4542,6 +4544,13 @@
       "sha512": "sha512-113J19v31pIx+PzmdEw67cWTZWh/YApnprbclFeat6szNbnpKOKG7Ap4PX5LT6E5Da+xONyilxvx2HZPpEaXPQ==",
       "path": "microsoft.testplatform.testhost/17.3.2",
       "hashPath": "microsoft.testplatform.testhost.17.3.2.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.17.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5daNXm8Hb016oETmuHXiW8jclmRR9CzM7XrOh2htYhQ/7AAYtqntZ1MrZkh09+JTtdjYdGsy2XIMPe9cg83x5w==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.17.2",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
     },
     "Microsoft.Win32.Primitives/4.3.0": {
       "type": "package",

@@ -1,0 +1,12 @@
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\bin\Debug\net7.0\UsuariosApp.Infra.Messages.deps.json
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\bin\Debug\net7.0\UsuariosApp.Infra.Messages.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\bin\Debug\net7.0\UsuariosApp.Infra.Messages.pdb
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net7.0\UsuariosApp.Infra.Messages.csproj.AssemblyReference.cache
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net7.0\UsuariosApp.Infra.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net7.0\UsuariosApp.Infra.Messages.AssemblyInfoInputs.cache
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net7.0\UsuariosApp.Infra.Messages.AssemblyInfo.cs
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net7.0\UsuariosApp.Infra.Messages.csproj.CoreCompileInputs.cache
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net7.0\UsuariosApp.Infra.Messages.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net7.0\refint\UsuariosApp.Infra.Messages.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net7.0\UsuariosApp.Infra.Messages.pdb
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net7.0\ref\UsuariosApp.Infra.Messages.dll
