@@ -1,5 +1,7 @@
 ﻿using Microsoft.Extensions.Options;
+using Newtonsoft.Json;
 using RabbitMQ.Client;
+using System.Text;
 using UsuariosApp.Application.Interfaces.Producers;
 using UsuariosApp.Application.Models.Producers;
 using UsuariosApp.Infra.Messages.Settings;
@@ -20,6 +22,7 @@ namespace UsuariosApp.Infra.Messages.Producers
             var _connectionFactory = new ConnectionFactory() { Uri = new Uri(_messageSettings?.Url) };
             using (var connection = _connectionFactory.CreateConnection())
             {
+                //conectando na fila do MessageBroker
                 using (var model = connection.CreateModel())
                 {
                     model.QueueDeclare(
@@ -28,6 +31,14 @@ namespace UsuariosApp.Infra.Messages.Producers
                         exclusive: false, //permitir conexões simultaneas
                         autoDelete: false, //somente a aplicação que irá remover itens da fila
                         arguments: null
+                        );
+
+                    //gravando uma mensagem na fila
+                    model.BasicPublish(
+                        exchange: string.Empty,
+                        routingKey: _messageSettings?.Queue,
+                        basicProperties: null,
+                        body: Encoding.UTF8.GetBytes(JsonConvert.SerializeObject(dto))
                         );
                 }
             }

@@ -7,7 +7,7 @@ builder.Services.AddControllers();
 builder.Services.AddRouting(options => options.LowercaseUrls = true);
 builder.Services.AddSwaggerDoc();
 builder.Services.AddEntityFramework(builder.Configuration);
-builder.Services.AddServices();
+builder.Services.AddServices(builder.Configuration);
 builder.Services.AddAutoMapper();
 
 var app = builder.Build();
