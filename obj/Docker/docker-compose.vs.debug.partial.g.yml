@@ -3,7 +3,6 @@ version: '3.4'
 services:
   usuariosapp.api:
     image: usuariosappapi:dev
-    container_name: UsuariosApp.API
     build:
       target: base
       labels:
