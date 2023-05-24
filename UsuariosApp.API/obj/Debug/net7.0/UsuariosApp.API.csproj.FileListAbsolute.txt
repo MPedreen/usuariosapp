@@ -85,3 +85,6 @@ C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\RabbitMQ.Client
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\RabbitMQ.Client.Core.DependencyInjection.dll
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\UsuariosApp.Infra.Messages.dll
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\UsuariosApp.Infra.Messages.pdb
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\UsuariosApp.Infra.Identity.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\UsuariosApp.Infra.Identity.pdb

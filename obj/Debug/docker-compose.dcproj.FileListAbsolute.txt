@@ -31,3 +31,11 @@ C:\infis\fonte\COTI\UsuariosApp\bin\Debug\UsuariosApp.Infra.Messages.pdb
 C:\infis\fonte\COTI\UsuariosApp\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 C:\infis\fonte\COTI\UsuariosApp\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 C:\infis\fonte\COTI\UsuariosApp\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\infis\fonte\COTI\UsuariosApp\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\infis\fonte\COTI\UsuariosApp\bin\Debug\UsuariosApp.Infra.Identity.dll
+C:\infis\fonte\COTI\UsuariosApp\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\infis\fonte\COTI\UsuariosApp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\infis\fonte\COTI\UsuariosApp\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\infis\fonte\COTI\UsuariosApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\infis\fonte\COTI\UsuariosApp\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\infis\fonte\COTI\UsuariosApp\bin\Debug\UsuariosApp.Infra.Identity.pdb

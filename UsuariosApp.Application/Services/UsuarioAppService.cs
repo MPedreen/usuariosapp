@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using UsuariosApp.Application.Helpers;
+using UsuariosApp.Application.Interfaces.Identities;
 using UsuariosApp.Application.Interfaces.Producers;
 using UsuariosApp.Application.Interfaces.Services;
 using UsuariosApp.Application.Models.Producers;
@@ -14,19 +15,26 @@ namespace UsuariosApp.Application.Services
     {
         private readonly IUsuarioDomainService? _usuarioDomainService;
         private readonly IUsuarioMessageProducer? _usuarioMessageProducer;
+        private readonly ITokenCreator? _tokenCreator;
         private readonly IMapper? _mapper;
 
-        public UsuarioAppService(IUsuarioDomainService? usuarioDomainService, IUsuarioMessageProducer? usuarioMessageProducer, IMapper? mapper)
+        public UsuarioAppService(IUsuarioDomainService? usuarioDomainService, IUsuarioMessageProducer? usuarioMessageProducer, ITokenCreator? tokenCreator, IMapper? mapper)
         {
             _usuarioDomainService = usuarioDomainService;
             _usuarioMessageProducer = usuarioMessageProducer;
+            _tokenCreator = tokenCreator;
             _mapper = mapper;
         }
 
         public AutenticarResponseDTO Autenticar(AutenticarRequestDTO dto)
         {
             var usuario = _usuarioDomainService?.Autenticar(dto.Email, Sha1Helper.Encrypt(dto.Senha));
-            return _mapper.Map<AutenticarResponseDTO>(usuario);
+            var response = _mapper.Map<AutenticarResponseDTO>(usuario);
+
+            response.AccessToken = _tokenCreator.Create(usuario.Email, "USER_ROLE");
+            response.DataHoraExpiracao = DateTime.UtcNow.AddHours(1);
+
+            return response;
         }
 
         public CriarContaResponseDTO CriarConta(CriarContaRequestDTO dto)
