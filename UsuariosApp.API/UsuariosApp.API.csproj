@@ -8,6 +8,7 @@
 	<NoWarn>$(NoWarn);1591</NoWarn>
 	<UserSecretsId>8afd578a-4d0a-42dc-91cc-8390a0964835</UserSecretsId>
 	<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+	<DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
   </PropertyGroup>
 
   <ItemGroup>
@@ -21,6 +22,7 @@
     <ProjectReference Include="..\UsuariosApp.Application\UsuariosApp.Application.csproj" />
     <ProjectReference Include="..\UsuariosApp.Domain\UsuariosApp.Domain.csproj" />
     <ProjectReference Include="..\UsuariosApp.Infra.Data\UsuariosApp.Infra.Data.csproj" />
+    <ProjectReference Include="..\UsuariosApp.Infra.Messages\UsuariosApp.Infra.Messages.csproj" />
   </ItemGroup>
 
 </Project>

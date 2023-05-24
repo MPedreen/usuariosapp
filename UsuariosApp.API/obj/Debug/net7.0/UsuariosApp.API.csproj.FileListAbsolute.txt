@@ -81,3 +81,7 @@ C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\UsuariosApp.Inf
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\AutoMapper.dll
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\RabbitMQ.Client.Core.DependencyInjection.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\UsuariosApp.Infra.Messages.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\UsuariosApp.Infra.Messages.pdb

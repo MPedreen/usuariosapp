@@ -2,5 +2,6 @@
   "UsuariosApp.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.API",
   "UsuariosApp.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Application",
   "UsuariosApp.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Domain",
-  "UsuariosApp.Infra.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Infra.Data"
+  "UsuariosApp.Infra.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Infra.Data",
+  "UsuariosApp.Infra.Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Infra.Messages"
 }

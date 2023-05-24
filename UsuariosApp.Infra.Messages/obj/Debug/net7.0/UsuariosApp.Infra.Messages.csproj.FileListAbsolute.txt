@@ -10,3 +10,8 @@ C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net7.0\Usua
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net7.0\refint\UsuariosApp.Infra.Messages.dll
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net7.0\UsuariosApp.Infra.Messages.pdb
 C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net7.0\ref\UsuariosApp.Infra.Messages.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\bin\Debug\net7.0\UsuariosApp.Application.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\bin\Debug\net7.0\UsuariosApp.Domain.dll
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\bin\Debug\net7.0\UsuariosApp.Application.pdb
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\bin\Debug\net7.0\UsuariosApp.Domain.pdb
+C:\infis\fonte\COTI\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net7.0\UsuariosApp.Infra.Messages.csproj.CopyComplete
