@@ -1,0 +1,17 @@
+C:\infis\fonte\COTI\UsuariosApp.Infra.Identity\bin\Debug\net7.0\UsuariosApp.Infra.Identity.deps.json
+C:\infis\fonte\COTI\UsuariosApp.Infra.Identity\bin\Debug\net7.0\UsuariosApp.Infra.Identity.dll
+C:\infis\fonte\COTI\UsuariosApp.Infra.Identity\bin\Debug\net7.0\UsuariosApp.Infra.Identity.pdb
+C:\infis\fonte\COTI\UsuariosApp.Infra.Identity\bin\Debug\net7.0\UsuariosApp.Application.dll
+C:\infis\fonte\COTI\UsuariosApp.Infra.Identity\bin\Debug\net7.0\UsuariosApp.Domain.dll
+C:\infis\fonte\COTI\UsuariosApp.Infra.Identity\bin\Debug\net7.0\UsuariosApp.Application.pdb
+C:\infis\fonte\COTI\UsuariosApp.Infra.Identity\bin\Debug\net7.0\UsuariosApp.Domain.pdb
+C:\infis\fonte\COTI\UsuariosApp.Infra.Identity\obj\Debug\net7.0\UsuariosApp.Infra.Identity.csproj.AssemblyReference.cache
+C:\infis\fonte\COTI\UsuariosApp.Infra.Identity\obj\Debug\net7.0\UsuariosApp.Infra.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\infis\fonte\COTI\UsuariosApp.Infra.Identity\obj\Debug\net7.0\UsuariosApp.Infra.Identity.AssemblyInfoInputs.cache
+C:\infis\fonte\COTI\UsuariosApp.Infra.Identity\obj\Debug\net7.0\UsuariosApp.Infra.Identity.AssemblyInfo.cs
+C:\infis\fonte\COTI\UsuariosApp.Infra.Identity\obj\Debug\net7.0\UsuariosApp.Infra.Identity.csproj.CoreCompileInputs.cache
+C:\infis\fonte\COTI\UsuariosApp.Infra.Identity\obj\Debug\net7.0\UsuariosApp.Infra.Identity.csproj.CopyComplete
+C:\infis\fonte\COTI\UsuariosApp.Infra.Identity\obj\Debug\net7.0\UsuariosApp.Infra.Identity.dll
+C:\infis\fonte\COTI\UsuariosApp.Infra.Identity\obj\Debug\net7.0\refint\UsuariosApp.Infra.Identity.dll
+C:\infis\fonte\COTI\UsuariosApp.Infra.Identity\obj\Debug\net7.0\UsuariosApp.Infra.Identity.pdb
+C:\infis\fonte\COTI\UsuariosApp.Infra.Identity\obj\Debug\net7.0\ref\UsuariosApp.Infra.Identity.dll
