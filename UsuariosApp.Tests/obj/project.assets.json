@@ -10255,8 +10255,8 @@
     },
     "UsuariosApp.Infra.Identity/1.0.0": {
       "type": "project",
-      "path": "../../UsuariosApp.Infra.Identity/UsuariosApp.Infra.Identity.csproj",
-      "msbuildProject": "../../UsuariosApp.Infra.Identity/UsuariosApp.Infra.Identity.csproj"
+      "path": "../UsuariosApp.Infra.Identity/UsuariosApp.Infra.Identity.csproj",
+      "msbuildProject": "../UsuariosApp.Infra.Identity/UsuariosApp.Infra.Identity.csproj"
     },
     "UsuariosApp.Infra.Messages/1.0.0": {
       "type": "project",

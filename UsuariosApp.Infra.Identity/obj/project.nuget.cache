@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mH0/enZpCmFjTYw5esVcv4CCkXaLQQyWktjlLssCY7u/pvs8K79BaTa3LAm5cVPR2ACIL4MjrimliyBiezdgpQ==",
+  "dgSpecHash": "jM38ke7YCnnV8nqFj6kP6Tr+PZEcVpgjqGspnaxtypQ59wbzUrVxBoJIU6MQpKHrp3rrIxygZ3PkXEA8BbGJMw==",
   "success": true,
-  "projectFilePath": "C:\\infis\\fonte\\COTI\\UsuariosApp.Infra.Identity\\UsuariosApp.Infra.Identity.csproj",
+  "projectFilePath": "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Infra.Identity\\UsuariosApp.Infra.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\INFISCO001024\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\INFISCO001024\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -3,6 +3,6 @@
   "UsuariosApp.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Application",
   "UsuariosApp.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Domain",
   "UsuariosApp.Infra.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Infra.Data",
-  "UsuariosApp.Infra.Identity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\infis\\fonte\\COTI\\UsuariosApp.Infra.Identity",
+  "UsuariosApp.Infra.Identity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Infra.Identity",
   "UsuariosApp.Infra.Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Infra.Messages"
 }

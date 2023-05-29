@@ -4474,8 +4474,8 @@
     },
     "UsuariosApp.Infra.Identity/1.0.0": {
       "type": "project",
-      "path": "../../UsuariosApp.Infra.Identity/UsuariosApp.Infra.Identity.csproj",
-      "msbuildProject": "../../UsuariosApp.Infra.Identity/UsuariosApp.Infra.Identity.csproj"
+      "path": "../UsuariosApp.Infra.Identity/UsuariosApp.Infra.Identity.csproj",
+      "msbuildProject": "../UsuariosApp.Infra.Identity/UsuariosApp.Infra.Identity.csproj"
     },
     "UsuariosApp.Infra.Messages/1.0.0": {
       "type": "project",
@@ -4530,9 +4530,6 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\infis\\fonte\\COTI\\UsuariosApp.Infra.Identity\\UsuariosApp.Infra.Identity.csproj": {
-              "projectPath": "C:\\infis\\fonte\\COTI\\UsuariosApp.Infra.Identity\\UsuariosApp.Infra.Identity.csproj"
-            },
             "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Application\\UsuariosApp.Application.csproj": {
               "projectPath": "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Application\\UsuariosApp.Application.csproj"
             },
@@ -4541,6 +4538,9 @@
             },
             "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Infra.Data\\UsuariosApp.Infra.Data.csproj": {
               "projectPath": "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Infra.Data\\UsuariosApp.Infra.Data.csproj"
+            },
+            "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Infra.Identity\\UsuariosApp.Infra.Identity.csproj": {
+              "projectPath": "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Infra.Identity\\UsuariosApp.Infra.Identity.csproj"
             },
             "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Infra.Messages\\UsuariosApp.Infra.Messages.csproj": {
               "projectPath": "C:\\infis\\fonte\\COTI\\UsuariosApp\\UsuariosApp.Infra.Messages\\UsuariosApp.Infra.Messages.csproj"
